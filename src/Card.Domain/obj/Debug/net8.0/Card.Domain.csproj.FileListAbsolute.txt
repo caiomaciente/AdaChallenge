@@ -1,0 +1,11 @@
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Domain\bin\Debug\net8.0\Card.Domain.deps.json
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Domain\bin\Debug\net8.0\Card.Domain.dll
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Domain\bin\Debug\net8.0\Card.Domain.pdb
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Domain\obj\Debug\net8.0\Card.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Domain\obj\Debug\net8.0\Card.Domain.AssemblyInfoInputs.cache
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Domain\obj\Debug\net8.0\Card.Domain.AssemblyInfo.cs
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Domain\obj\Debug\net8.0\Card.Domain.csproj.CoreCompileInputs.cache
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Domain\obj\Debug\net8.0\Card.Domain.dll
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Domain\obj\Debug\net8.0\refint\Card.Domain.dll
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Domain\obj\Debug\net8.0\Card.Domain.pdb
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Domain\obj\Debug\net8.0\ref\Card.Domain.dll

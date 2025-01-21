@@ -1,0 +1,17 @@
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\bin\Debug\net8.0\Card.Persistence.deps.json
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\bin\Debug\net8.0\Card.Persistence.dll
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\bin\Debug\net8.0\Card.Persistence.pdb
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\bin\Debug\net8.0\Card.Data.dll
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\bin\Debug\net8.0\Card.Domain.dll
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\bin\Debug\net8.0\Card.Data.pdb
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\bin\Debug\net8.0\Card.Domain.pdb
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\obj\Debug\net8.0\Card.Persistence.csproj.AssemblyReference.cache
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\obj\Debug\net8.0\Card.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\obj\Debug\net8.0\Card.Persistence.AssemblyInfoInputs.cache
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\obj\Debug\net8.0\Card.Persistence.AssemblyInfo.cs
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\obj\Debug\net8.0\Card.Persistence.csproj.CoreCompileInputs.cache
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\obj\Debug\net8.0\Card.Per.4381EE60.Up2Date
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\obj\Debug\net8.0\Card.Persistence.dll
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\obj\Debug\net8.0\refint\Card.Persistence.dll
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\obj\Debug\net8.0\Card.Persistence.pdb
+F:\projects\DesafioBackendAda\ADACardChallenge\src\Card.Persistence\obj\Debug\net8.0\ref\Card.Persistence.dll
